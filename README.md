@@ -7,14 +7,14 @@
 <li><h3><strong>Backend</strong></h3></li>
 
 <ul>
-<li><a href="" target="_blank">pipenv</a></li>
+<li><a href="https://github.com/pypa/pipenv" target="_blank">pipenv</a></li>
 
 ```
 $ pipenv shell
 $ pipenv install
 ```
 
-<li><a href="" target="_blank">pip</a> e <a href="">virtualenv</a></li>
+<li><a href="https://pypi.org/project/pip/" target="_blank">pip</a> e <a href="https://virtualenv.pypa.io/en/latest/" target=_blank>virtualenv</a></li>
 
 ```
 $ pip3 install virtualenv
