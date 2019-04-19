@@ -7,14 +7,18 @@
 <li><h3><strong>Backend</strong></h3></li>
 
 <ul>
-<li><a href="https://github.com/pypa/pipenv" target="_blank">pipenv</a></li>
+<li>Utilizando <a href="https://github.com/pypa/pipenv">pipenv</a></li>
 
 ```
 $ pipenv shell
 $ pipenv install
 ```
 
-<li><a href="https://pypi.org/project/pip/" target="_blank">pip</a> e <a href="https://virtualenv.pypa.io/en/latest/" target=_blank>virtualenv</a></li>
+<li>
+    Ou utlizando
+    <a href="https://pypi.org/project/pip/">pip</a> & 
+    <a href="https://virtualenv.pypa.io/en/latest/">virtualenv</a>
+</li>
 
 ```
 $ pip3 install virtualenv
@@ -28,17 +32,13 @@ $ pip install -r requirements.txt
 
 <li><h3><strong>Frontend</strong></h3></li>
 <ul>
-<li>
-<a href="https://yarnpkg.com/pt-BR/" target="_blank">Yarn</a>
-</li>
+<li> Utlizando <a href="https://yarnpkg.com/pt-BR/" target="_blank">Yarn</a></li>
 
 ```
 $ yarn install
 ```
 
-<li>
-<a  href="https://www.npmjs.com/" target="_blank">npm</a>
-</li>
+<li>Ou <a  href="https://www.npmjs.com/" target="_blank">npm</a></li>
 
 ```
 $ npm -i
